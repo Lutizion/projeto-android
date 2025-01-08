@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('/fontes/idroid.otf') format('opentype');
+    src: url('../fontes/idroid.otf') format('opentype');
     font-weight: normal;
 
 }
@@ -154,9 +154,11 @@ main a:hover {
     color: var(--cor4);
 }
 
-img {
+main > img {
+    width: 50%;
     display: block;
     margin: auto;
+
 }
 
 div.video {
