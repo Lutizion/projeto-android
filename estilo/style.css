@@ -105,7 +105,6 @@ main {
 main > article {
     max-height: auto;
     overflow: visible;
-    margin: 20px;
     
 }
 
@@ -169,7 +168,7 @@ main img.pequena {
 
 div.video {
     background-color: var(--cor5);
-    margin: 30px -40px;
+    margin: 30px -20px;
     padding: 20px;
     padding-bottom: 56.8%;
     position: relative;
